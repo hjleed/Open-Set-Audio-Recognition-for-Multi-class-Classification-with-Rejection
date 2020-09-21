@@ -1,7 +1,7 @@
 # Open Set Audio Recognition for Multi-class Classification with Rejection
 
 
-![Test Image 1](https://github.com/hjleed/Face-Recognition-System-Based-on-Template-Matching-in-Frequency-Domain/blob/master/recognition.png?raw=true)
+![Test Image 1](https://https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/blob/master/Writing/img/image.png)
 
 
 @article{jleed2020open,<br>
