@@ -3,6 +3,8 @@
 
 ![Test Image 1](https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/blob/master/Writing/img/image.png?raw=true?raw=true)
 
+# Paper reference
+Please cite this paper when you use the code:
 
 @article{jleed2020open,<br>
   title={Open Set Audio Recognition for Multi-Class Classification With Rejection},<br>
