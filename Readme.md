@@ -1,4 +1,3 @@
-# Open Set Audio Recognition for Multi-class Classification with Rejection
 
 
 ![Test Image 1](https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/blob/master/Writing/img/image.png?raw=true?raw=true)
