@@ -1,2 +1,3 @@
-*.TeX linguist-detectable=Python  # to change language of repo to Python
+*.TeX linguist-detectable=Python 
 *.tex linguist-detectable=Python 
+*.py linguist-detectable=Python 
