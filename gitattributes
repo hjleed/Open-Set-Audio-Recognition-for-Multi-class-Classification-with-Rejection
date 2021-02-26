@@ -1,8 +1,2 @@
-# to change language of repo to Python
-*.css linguist-detectable=false
-*.java linguist-detectable=false
-*.python linguist-detectable=true 
-*.js linguist-detectable=false
-*.html linguist-detectable=false  
-*.xml linguist-detectable=false 
-*.TeX linguist-detectable=false 
+*.TeX linguist-detectable=Python  # to change language of repo to Python
+*.tex linguist-detectable=Python 
