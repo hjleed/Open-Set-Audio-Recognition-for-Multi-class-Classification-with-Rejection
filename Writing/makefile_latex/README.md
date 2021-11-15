@@ -37,11 +37,11 @@ Getting started
 
 Download `Makefile` by using `wget`:
 ```shell
-wget https://raw.githubusercontent.com/tueda/makefile4latex/master/Makefile
+wget https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/tree/master/Writing/makefile_latex/Makefile
 ```
 or `curl`:
 ```shell
-curl -O https://raw.githubusercontent.com/tueda/makefile4latex/master/Makefile
+curl -O https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/tree/master/Writing/makefile_latex/Makefile
 ```
 or via [this link](https://raw.githubusercontent.com/tueda/makefile4latex/master/Makefile)
 in your browser. Put it into a directory that contains LaTeX files.
@@ -50,7 +50,6 @@ Then just type:
 make
 ```
 
-See also the [Wiki page](https://github.com/tueda/makefile4latex/wiki) for
 other ways to start.
 
 
