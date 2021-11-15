@@ -3,7 +3,7 @@ function features=FeatureExtraction(audioIn,fs)
  overlapLength = 512;
  win = hamming(windowLength,"periodic");
  %%  Silence Removal
-%  audioIn=Silence_Removal(audioIn,windowLength,overlapLength);
+audioIn=Silence_Removal(audioIn,windowLength,overlapLength);
  
  afe = audioFeatureExtractor( ...
     'Window',       win, ...
