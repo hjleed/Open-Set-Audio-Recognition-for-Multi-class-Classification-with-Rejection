@@ -1,0 +1,2 @@
+---Optimizing Parameters ------ 
+overall_accuracy :c= 150 , gamma =  0.025000 
