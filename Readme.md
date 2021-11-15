@@ -17,7 +17,7 @@ Please cite this paper when you use the code:
 }<br>
 
 <p align="center"> 
-  <img src="https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/blob/master/Writing/img/architecture.png" alt="Diagram" width="500px" height="600px">
+  <img src="https://github.com/hjleed/Open-Set-Audio-Recognition-for-Multi-class-Classification-with-Rejection/blob/master/Writing/img/architecture.png" alt="Diagram" width="500px" height="400px">
 </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
